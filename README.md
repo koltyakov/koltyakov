@@ -1,5 +1,3 @@
-# Andrew Koltyakov
-
 [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/koltyakov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koltyakov)
 [![MVP](https://img.shields.io/badge/MVP-M365_Dev-0077B5?&style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-us/PublicProfile/5002779)
@@ -14,4 +12,6 @@ It happens I know SharePoint a bit while dealing with the platform over a decade
 
 ## GitHub profile stats
 
-![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koltyakov&count_private=true&show_icons=true&theme=github_light)
+| | |
+| --- | --- |
+| ![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koltyakov&count_private=true&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koltyakov&hide_progress=false&layout=compact&hide=javascript,handlebars,css,html,scss&langs_count=8&theme=transparent) |
