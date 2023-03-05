@@ -1,16 +1,17 @@
-### Hi there 👋
+# Andrew Koltyakov
 
-<!--
-**koltyakov/koltyakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/koltyakov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koltyakov)
+[![MVP](https://img.shields.io/badge/MVP-M365_Dev-0077B5?&style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-us/PublicProfile/5002779)
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm solution architect and developer with a focus on cloud. I live and work in Texas, USA. I'm a Microsoft MVP for M365 Development.
+
+I don't like to keep experiense isolated, but prefer make an open source tool and bring it back to corp as a community proven. When you share you always get more in return.
+
+It happens I know SharePoint a bit while dealing with the platform over a decade. But enterprise solutions are not limited to one platform, so many stuff around.
+
+## GitHub profile stats
+
+![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koltyakov&count_private=true&show_icons=true&theme=github_light)
