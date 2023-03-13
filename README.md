@@ -12,5 +12,4 @@ It happens I know SharePoint a bit while dealing with the platform over a decade
 
 ## GitHub profile stats
 
-![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koltyakov&count_private=true&show_icons=true&theme=transparent&hide_border=true&custom_title=Profile%20Stats&text_bold=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koltyakov&hide_progress=false&layout=compact&hide=javascript,handlebars,css,html,scss&langs_count=8&theme=transparent&hide_border=true)
-
+![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koltyakov&count_private=true&show_icons=true&theme=transparent&hide_border=true&custom_title=Profile%20Stats&text_bold=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koltyakov&hide_progress=false&layout=compact&hide=javascript,handlebars,css,html,scss&langs_count=8&theme=transparent&hide_border=true) <img src="https://stats.spflow.com/count?p=/github/profile&t=Profile">
