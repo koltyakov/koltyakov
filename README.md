@@ -1,10 +1,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/koltyakov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koltyakov)
-[![MVP](https://img.shields.io/badge/MVP-M365_Dev-0077B5?&style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-us/PublicProfile/5002779)
 
 ## About me
 
-I'm solution architect and developer with a focus on cloud. I live and work in Texas, USA. I'm a Microsoft MVP for M365 Development.
+I'm solution architect and developer with a focus on cloud. I live and work in Texas, USA.
 
 I don't like to keep experiense isolated, but prefer make an open source tool and bring it back to corp as a community proven. When you share you always get more in return.
 
