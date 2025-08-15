@@ -3,11 +3,11 @@
 
 ## About me
 
-I'm solution architect and developer with a focus on cloud. I live and work in Texas, USA.
+I'm a solution architect and developer based in Texas, USA, with a strong focus on cloud-native architectures, distributed systems, and automation. I believe in building tools and solutions that don't just stay locked inside corporate walls—open source accelerates innovation, and when you share, you always get more in return.
 
-I don't like to keep experiense isolated, but prefer make an open source tool and bring it back to corp as a community proven. When you share you always get more in return.
+My experience spans AWS and Azure, modern application stacks, and database-driven solutions, blending serverless, microservices, and DevOps practices. I work across multiple languages and frameworks (absolute favorites - Go, Node.js, TypeScript, React) and apply Infrastructure as Code, CI/CD pipelines, and orchestration tools to deliver scalable, maintainable systems.
 
-It happens I know SharePoint a bit while dealing with the platform over a decade. But enterprise solutions are not limited to one platform, so there is a lot around: React, TypeScript, Node.js, Go, IaC, DevOps, Serverless, integrations, processes, orchestration.
+With a background in enterprise platforms and over a decade of solving complex integration challenges, I bring a full-stack perspective that includes application development, cloud infrastructure, and database technologies.
 
 ## GitHub profile stats
 
