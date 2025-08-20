@@ -3,7 +3,7 @@
 
 ## About me
 
-I'm a solution architect and developer based in Texas, USA, with a strong focus on cloud-native architectures, distributed systems, and automation. I believe in building tools and solutions that don't just stay locked inside corporate walls—open source accelerates innovation, and when you share, you always get more in return.
+I'm a solution architect and developer, with a strong focus on cloud-native architectures, distributed systems, and automation. I believe in building tools and solutions that don't just stay locked inside corporate walls—open source accelerates innovation, and when you share, you always get more in return.
 
 My experience spans AWS and Azure, modern application stacks, and database-driven solutions, blending serverless, microservices, and DevOps practices. I work across multiple languages and frameworks (absolute favorites - Go, Node.js, TypeScript, React) and apply Infrastructure as Code, CI/CD pipelines, and orchestration tools to deliver scalable, maintainable systems.
 
