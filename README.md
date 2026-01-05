@@ -11,6 +11,6 @@ With a background in enterprise platforms and over a decade of solving complex i
 
 ## GitHub profile stats
 
-![Andrew's GitHub Stats](https://readme-stats-fast.vercel.app/api?username=koltyakov&count_private=true&show_icons=true&theme=transparent&hide_border=true&custom_title=Profile%20Stats&text_bold=false) ![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=koltyakov&hide_progress=false&layout=compact&hide=javascript,handlebars,css,html,scss&langs_count=8&theme=transparent&hide_border=true) <img src="https://stats.spflow.com/count?p=/github/profile&t=Profile">
+![Andrew's GitHub Stats](https://readme-stats-fast.vercel.app/api?username=koltyakov&count_private=true&show_icons=true&theme=transparent&hide_border=true&custom_title=Profile%20Stats&text_bold=false) ![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=koltyakov&hide_progress=false&layout=compact&exclude_repo=sp-jsom-node&langs_count=8&theme=transparent&hide_border=true) <img src="https://stats.spflow.com/count?p=/github/profile&t=Profile">
 
 <!-- github-readme-stats.vercel.app -> readme-stats-fast.vercel.app (https://github.com/anuraghazra/github-readme-stats/discussions/4729#discussioncomment-15398147) -->
